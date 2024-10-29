@@ -1,0 +1,108 @@
+{
+  "appointment": [
+    {
+      "name": "dad",
+      "mobileNo": "wdd",
+      "city": "dwad",
+      "age": "54",
+      "gender": "FeMale",
+      "appointmentDate": "2024-10-30",
+      "appointmentTime": "asd",
+      "isFirstVisit": true,
+      "naration": "dad",
+      "id": "8439"
+    },
+    {
+      "name": "eeeddd444",
+      "mobileNo": "wdd",
+      "city": "dwad",
+      "age": "34",
+      "gender": "FeMale",
+      "appointmentDate": "2024-10-30",
+      "appointmentTime": "asd",
+      "isFirstVisit": true,
+      "naration": "dad",
+      "id": "6240"
+    },
+    {
+      "id": "",
+      "name": "Akib",
+      "mobileNo": "01951966093",
+      "city": "Khulna, Bangladesh",
+      "age": "23",
+      "gender": "Male",
+      "appointmentDate": "2024-10-22",
+      "appointmentTime": "17:59",
+      "isFirstVisit": true,
+      "naration": "Back Pain"
+    },
+    {
+      "id": "",
+      "name": "Rokon",
+      "mobileNo": "01951966093",
+      "city": "Dhaka, Bangladesh",
+      "age": "34",
+      "gender": "",
+      "appointmentDate": "2024-10-22",
+      "appointmentTime": "17:59",
+      "isFirstVisit": true,
+      "naration": "ewacas"
+    },
+    {
+      "id": "",
+      "name": "Md. Manik mia",
+      "mobileNo": "01922222277",
+      "city": "Rangpur",
+      "age": "27",
+      "gender": "",
+      "appointmentDate": "2024-10-30",
+      "appointmentTime": "08:00",
+      "isFirstVisit": true,
+      "naration": "head pain"
+    },
+    {
+      "id": "",
+      "name": "Akib",
+      "mobileNo": "",
+      "city": "",
+      "age": "32",
+      "gender": "",
+      "appointmentDate": "2024-10-24",
+      "appointmentTime": "09:09",
+      "isFirstVisit": true,
+      "naration": "hEAD pain"
+    }
+  ],
+  "doctors": [
+    {
+      "name": " Dr. Md. Shahin Shah",
+      "expriance": "10 Years Experience",
+      "institution": " Kasir Uddin  Memorial Medical College &amp; Hospital  Rangpur - KMMCH",
+      "designation": "Assistant Professor,General Surgery",
+      "qualification": "MBBS, BCS (Health)  FCPS (Plastic Surgery)",
+      "workcity": "Rangpur,Bangladesh",
+      "visitfee": " ৳800",
+      "id": "0b72"
+    },
+    {
+      "name": "Dr. G. Balamurali",
+      "expriance": "7 Years Experience",
+      "institution": "Kauvery Hospital  Chennai",
+      "designation": "Senior Consultant,Spine Surgery",
+      "qualification": "MBBS, MRCS (Ed), MD (UK), FRCS (Surgical Neurology), - UK, USA, Switzerland., - UK, Switzerland",
+      "workcity": "Chennai,India",
+      "visitfee": "$200",
+      "id": "b81e"
+    },
+    {
+      "name": "Dr. Kunzang Doma Bhutia",
+      "expriance": "10 Years Experience",
+      "institution": "Thalamus Institute of Medical Sciences ( TIMS)",
+      "designation": " ENT Surgeon, Siliguri,ENT",
+      "qualification": "MS, DNB",
+      "workcity": "Siliguri ,India",
+      "visitfee": "$300",
+      "id": "b856"
+    }
+  ]
+}
